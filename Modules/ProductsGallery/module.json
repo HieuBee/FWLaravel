@@ -1,0 +1,13 @@
+{
+    "name": "ProductsGallery",
+    "alias": "productsgallery",
+    "description": "",
+    "keywords": [],
+    "priority": 0,
+    "providers": [
+        "Modules\\ProductsGallery\\Providers\\ProductsGalleryServiceProvider"
+    ],
+    "aliases": {},
+    "files": [],
+    "requires": []
+}

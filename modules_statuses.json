@@ -1,0 +1,12 @@
+{
+    "NewModule": true,
+    "CPP": true,
+    "Product": true,
+    "Bookings": true,
+    "Categories": true,
+    "ProductsGallery": true,
+    "Products": true,
+    "Demo": true,
+    "Blog": true,
+    "Blogs": true
+}
